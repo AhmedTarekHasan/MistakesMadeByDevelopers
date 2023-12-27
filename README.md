@@ -1,10 +1,10 @@
-<link rel="canonical" href="https://levelup.gitconnected.com/mistakes-made-by-developers-79af38b070b7?sk=89f622416213566631d0fbc31bc4824b" />
+<link rel="canonical" href="https://www.developmentsimplyput.com/post/mistakes-made-by-developers" />
 
 # Mistakes Made By Developers
 ### These are the most common mistakes made by developers.
 
 <p align="center">
-  <img src="https://miro.medium.com/max/1400/1*1gfui7LTcaU2jaVT1mzpPg.jpeg">
+  <img src="https://static.wixstatic.com/media/488a99_94ceaabf5f0b4dfea425e77e81e5de6d~mv2.png">
 </p>
 
 <br/>
@@ -63,4 +63,4 @@ If you are interested into reading more about this topic, you can read [the rest
 [LinkedIn]: https://www.linkedin.com/in/atarekhasan/
 [Friend Links]: https://www.linkedin.com/feed/update/urn:li:activity:6866082670108143616/
 [Newsletter]: https://www.linkedin.com/newsletters/development-simply-put-6866647119655247872/
-[Article]: https://levelup.gitconnected.com/mistakes-made-by-developers-79af38b070b7?sk=89f622416213566631d0fbc31bc4824b
+[Article]: https://www.developmentsimplyput.com/post/mistakes-made-by-developers
